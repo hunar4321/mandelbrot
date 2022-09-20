@@ -1,4 +1,4 @@
 # mandelbrot
-Simple mandelbrot in javascript
+Simple Mandelbrot in javascript
 
 ![](mendlbort.JPG)
