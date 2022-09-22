@@ -1,7 +1,10 @@
-# Mandelbrot
+# Mandelbrot Set
 Simple Mandelbrot in javascript
 Note: The canonical way to code Mandelbrot is to use complex number which results in a more elegant equation, however, this will require using an external library and also introduction to complex numbers which overall makes the video longer and harder to follow.
-'''
+The following video is a code walkthrough and a light introduction to Wolfram's physics project
+https://youtu.be/mzizK6ms-gY
+
+```
   <canvas id="gardun" width="1000" height="1000"></canvas>
   <script>
   m = document.getElementById("gardun").getContext("2d")
@@ -20,6 +23,6 @@ Note: The canonical way to code Mandelbrot is to use complex number which result
   if(H){atom(x,y,"rgb("+ t*3 +","+ t +","+ t*0.5 +")"); break}
   }}}
   </script>
-'''
+```
 
 ![](mendlbort.JPG)
