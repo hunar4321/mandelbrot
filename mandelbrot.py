@@ -1,4 +1,12 @@
 # a simple Mandelbrot in python (slow)
+
+import numpy as np
+import matplotlib.pylab as plt
+
+atoms=[]
+window_size = 300
+center = window_size/2
+
 mat = np.zeros((window_size, window_size))
 for y in range(window_size):
     for x in range(window_size):
