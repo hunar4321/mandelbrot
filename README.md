@@ -1,7 +1,7 @@
-# Simple Mandelbrot in javascript
+# Simple Mandelbrot
 
-The following video is the code walkthrough and a light introduction to Wolfram's physics project: https://youtu.be/mzizK6ms-gY
-
+This is a bare minimal code necessary to produce Mandelbrot shape from strach without using external libararies or complex numbers (written in both JavaScript and Python)
+The following educational video provides the code walkthrough and illustrates it's relevance to Wolfram's Physics Project: https://youtu.be/mzizK6ms-gY
 
 ```
   <canvas id="gardun" width="1000" height="1000"></canvas>
