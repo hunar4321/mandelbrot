@@ -1,6 +1,7 @@
 # Simple Mandelbrot
 
-This is a bare minimal code necessary to produce Mandelbrot shape from strach without using external libararies or complex numbers (written in both JavaScript and Python)
+This is a bare minimal code necessary to produce Mandelbrot shape from strach without using external libraries or complex numbers (written in both JavaScript and Python).
+
 The following educational video provides the code walkthrough and illustrates it's relevance to Wolfram's Physics Project: https://youtu.be/mzizK6ms-gY
 
 ```
