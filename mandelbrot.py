@@ -1,4 +1,5 @@
 # a simple Mandelbrot in python (slow)
+# for step by step explanation watch this video: https://youtu.be/mzizK6ms-gY
 
 import numpy as np
 import matplotlib.pylab as plt
